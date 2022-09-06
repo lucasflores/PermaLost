@@ -1,5 +1,5 @@
 # PermaLost
-The goal of this project is to implement multiple machine learning/statistical methods, both interpolative and predictive, in order to creaet a powerful tool to assist archeologists/anthropologists to locate sites vulnerable to 'soft' artifact degradation due to increased permafrost melt due to global warming. This project will first focus on Greenland.
+The goal of this project is to implement multiple machine learning/statistical methods, both interpolative and predictive, in order to create a powerful tool to assist archeologists/anthropologists to locate sites vulnerable to 'soft' artifact degradation that comes with increased permafrost melt due to global warming. This project will first focus on Greenland.
 
 ## Project Package Dependencies  
 - pandas 
